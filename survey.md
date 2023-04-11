@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Rice
+Favorite musician/band: Taylor Swift
+Favorite movie: The Devil Wears Prada
+Requested grade in the course: 100
